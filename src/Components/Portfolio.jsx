@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Word Counter React Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web application that counts the number of words in a text input, built using React for a user-friendly experience.",
+    url: "https://github.com/kartikhustles/Word-Counter-React-Task",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Color Picker React Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An interactive tool developed with React that allows users to select and explore a wide range of colors for various design and creative purposes.",
+    url: "https://github.com/kartikhustles/Color-Picker-React-Task",
   },
   {
-    title: "My Resume Site",
+    title: "Calculator React Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A simple yet powerful calculator application created using React, providing basic arithmetic functions for quick and easy calculations.",
+    url: "https://github.com/kartikhustles/Calculator-React-Task",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Age Calculator React Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A user-friendly React-based utility that calculates a person's age based on their birthdate, helping users quickly determine their age.",
+    url: "https://github.com/kartikhustles/Age-Calculator-React-Task",
   },
 ];
 
